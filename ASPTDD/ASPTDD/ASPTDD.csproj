@@ -248,13 +248,13 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Entities\Entities.csproj">
+    <ProjectReference Include="..\Entities\ASPTDD.Entities.csproj">
       <Project>{3231e248-848b-4fbb-b403-ef9bc6653eff}</Project>
-      <Name>Entities</Name>
+      <Name>ASPTDD.Entities</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Services\Services.csproj">
+    <ProjectReference Include="..\Services\ASPTDD.Services.csproj">
       <Project>{d98a1f8a-5d66-4cc6-be5e-57753998da31}</Project>
-      <Name>Services</Name>
+      <Name>ASPTDD.Services</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
